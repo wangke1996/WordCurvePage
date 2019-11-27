@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f5792d9eec415d39cbab05e5d2bcb3ee",
+    "revision": "1177d1994445d7ba5a9c46c39f28fd6c",
     "url": "/WordCurvePage/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WordCurvePage/static/js/2.b0f7f434.chunk.js"
   },
   {
-    "revision": "063e6ddeb60c85d4900e",
-    "url": "/WordCurvePage/static/js/main.6f8a2aad.chunk.js"
+    "revision": "f5c46805e57375785c10",
+    "url": "/WordCurvePage/static/js/main.a3140c38.chunk.js"
   },
   {
     "revision": "18a8f5c9e5c9bc2da725",
